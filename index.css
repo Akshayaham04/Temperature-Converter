@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: rgb(159, 169, 154);
+  }
+  
+  .container {
+    background-color: rgb(160, 138, 115);
+    padding: 40px;
+    border-radius: 25px;
+    box-shadow: 0px 0px 10px rgba(11, 11, 11, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+    font-size: medium;
+    margin-bottom: 55px;
+  }
+  
+  input, button {
+    padding: 12px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    background-color: rgb(74, 143, 143);
+    color: rgb(77, 6, 6);
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #fahrenheit {
+    font-weight: bold;
+
+  }
+  
